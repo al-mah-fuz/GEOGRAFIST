@@ -1,0 +1,6 @@
+{
+  "name": "GEOGRAFIST — Know the World. Master the Facts",
+  "description": "Premium geography and world-knowledge challenge covering flags, capitals, history, current affairs, and world exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
